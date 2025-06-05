@@ -1,4 +1,4 @@
-# MW22_GSCBIN_PS4
+# MW22_PS4_GSC_Wiki_Library
 GSCBIN for Call of Duty: Modern Warfare II 2022 PS4 (PlayStation 4) version
 
 
